@@ -1,10 +1,9 @@
 #include "main.h"
-	/**
-	 * main - print _putchar
-	 * is written by AjoejoeA 
-	 * Return: 0
-	 */
 
+	/**
+	 * main – entry point
+	 * Return: Always 0
+	 */
 
 	int main(void)
 	{
