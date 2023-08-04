@@ -20,4 +20,3 @@ int main(void)
     clear_bit(&n, 1);
     printf("%lu\n", n);
     return (0);
-}
