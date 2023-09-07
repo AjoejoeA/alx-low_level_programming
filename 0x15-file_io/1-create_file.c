@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * create_file - Function to create a file.
- * @filename: 
- * @text_content:  A pointer to the string that will be written to the file or  pointer to a string to write to the file.
+ * create_file - Creates a file.
+ * @filename: A pointer to the name of the file to create.
+ * @text_content: A pointer to a string to write to the file.
  *
  * Return: If the function fails - -1.
  *         Otherwise - 1.
